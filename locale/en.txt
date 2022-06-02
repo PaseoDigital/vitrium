@@ -1,0 +1,22 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_2AA6CEA0_2683_E028_41B1_08152DEF4B15.label = Cam Amenities 360
+panorama_2CE2F563_2683_A028_41B9_203C4A30C682.label = Cam Cowork 360
+panorama_2CDE9B6B_2683_A038_41C0_8C0239DFABE2.label = Cam Dpto1 - Cocina comedor 360
+panorama_2CDEA0EB_2683_A03F_41AF_283983DB0458.label = Cam Dpto1 - Dormitorio ppal 360
+panorama_2CDE8684_2683_A0E8_41AD_351EBF752EED.label = Cam Dpto2 - Cocina Comedor 360
+panorama_2CDEBBFF_2683_A018_41B5_F036D6C86EC8.label = Cam Dpto2 - Dormitorio ppal 360
+panorama_2CDF91C5_2682_6068_41A2_9A9C5613524C.label = Cam Exterior Aerea 360
+panorama_2CDF87DC_2682_6018_41BE_3323AAB2E02F.label = Cam Exterior Peatonal 360 - Match
+panorama_2CDFAE4C_2682_6078_41BF_4D34C32E339E.label = Cam Monoambiente 360
+panorama_2CDF641B_2682_6018_41B2_D1E88E0D8385.label = Cam Parrilla 360
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 13
